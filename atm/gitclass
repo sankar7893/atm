@@ -1,0 +1,8 @@
+git add abc.text =======> git add .
+git status
+git commit -m "this is my first commit"
+git status
+git config --global user.name "siva"
+git config --global user.email "siva@gmail.com"
+git config --global --list
+
